@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fyrititech.com/sitemap.xml
